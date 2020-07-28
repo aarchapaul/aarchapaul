@@ -1,7 +1,7 @@
 # Hi, I'm Aarcha
 Hi, I'm Aarcha - a final year Engineering student. I like experimenting with new technologies and building small projects.
 
-[![Aarcha's github stats](https://github-readme-stats.vercel.app/api?username=aarchapaul)]<!--(https://github.com/anuraghazra/github-readme-stats)-->
+[![Aarcha's github stats](https://github-readme-stats.vercel.app/api?username=aarchapaul)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **aarchapaul/aarchapaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
