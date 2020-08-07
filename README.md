@@ -9,6 +9,8 @@ Here are some ideas to get you started:
 projects to do:
   -PGP encryption program
   -Web browser
+  -Tinder for literary characters
+  -Abdul kalam quotes (fortune cookie)
   
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
