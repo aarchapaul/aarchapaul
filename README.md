@@ -11,6 +11,7 @@ projects to do:
   -Web browser
   -Tinder for literary characters
   -Abdul kalam quotes (fortune cookie)
+  -time tracker for events(google calendar)
   
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
